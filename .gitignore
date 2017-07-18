@@ -1,4 +1,7 @@
 .envrc
 .bundle/
-bundled_gems/
+vendor/
+.sass-cache/
+_site/
 
+*.swp
