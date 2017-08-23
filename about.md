@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## ACM
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+ACM@MSU organizes tech talks, presentations, and other events with industry professionals and instructors from
+MSU to foster a community of developers. ACM@MSU also aims to provide material supplemental to
+classes with industry standard utilities like git, data visualization techniques with D3.js,
+workshops covering Haskell and much more.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## WIC
 
+Michigan State University Women in Computing (MSU WIC) is an organization of students and
+faculty (both men and women) who work to recruit, support, and retain women in computing
+fields. If you are interested in computing, we would love to see you at our next meeting! We
+host many events during the semester including tech talks from visiting companies, Lean In
+Circles, Girl Scout workshops, web development workshops, social events, and more. Check out
+our calendar and events below to keep up to date or like us on Facebook by searching MSU WIC.
 
-[jekyll-organization]: https://github.com/jekyll
+## SpartanHackers
+
+Spartan Hackers exists to foster a community of technological innovation, collaboration, and
+creation at Michigan State University.
+
