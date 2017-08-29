@@ -25,3 +25,16 @@ our calendar and events below to keep up to date or like us on Facebook by searc
 Spartan Hackers exists to foster a community of technological innovation, collaboration, and
 creation at Michigan State University.
 
+## Student Representatives
+
+The student representatives are your connection to the faculty and administration of the
+Computer Science department. You should contact them if you have concerns, questions or ideas
+regarding curriculum or faculty interactions.
+
+The current roster for the student representatives follows:
+
+| Position                  | Name                  | Email             |
+| ------------------------- |:--------------------- |:----------------- |
+| Curriculum Committee      |  Jacob Fenton         | fentonj6@msu.edu  |
+| Faculty Meeting (Grad)    |  Steven Jorgensen     | jorgen72@msu.edu  |
+
