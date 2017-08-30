@@ -34,12 +34,12 @@ regarding curriculum or faculty interactions.
 The current roster for the student representatives follows:
 
 | Position                              | Name                  | Email             |
-| -------------------------             |:--------------------- |:----------------- |
-| Curriculum Committee (UN)             | Jacob Fenton          | fentonj6@msu.edu  |
-| Department Committee (GR)             | Steven Jorgensen      | jorgen72@msu.edu  |
-| Department Committee (UN)             | Alexana Stek          | steckale@msu.edu  |
+|:-------------------------             |:--------------------- |:----------------- |
 | Advisory Committee (UN)               | Riley Annis           | annisril@msu.edu  |
 | Advisory Committee (GR)               | Hamid Karimi          | karimiha@msu.edu  |
 | Computer Environment Committee (UN)   | Jason Brownell        | browne93@msu.edu  |
 | Computer Environment Committee (GR)   | Sari Sadiya           | sadiyasa@msu.edu  |
+| Curriculum Committee (UN)             | Jacob Fenton          | fentonj6@msu.edu  |
+| Department Committee (GR)             | Steven Jorgensen      | jorgen72@msu.edu  |
+| Department Committee (UN)             | Alexana Stek          | steckale@msu.edu  |
 | Grad. Studies and Research Committee  | Hussein Hijazi        | hijazihu@msu.edu  |
