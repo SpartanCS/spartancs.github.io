@@ -31,6 +31,13 @@ our calendar and events below to keep up to date or like us on Facebook by searc
 Spartan Hackers exists to foster a community of technological innovation, collaboration, and
 creation at Michigan State University.
 
+### SpartaHack
+
+SpartaHack organizes the annual hackathon at MSU, a 36-hour event with dozens of sponsors
+taking place in early Spring semester. There's food, swag, projects, cool tech and cool
+talks. They're always looking for organizers to join their team as it's no easy job putting
+everything together.
+
 ## Student Representatives
 
 The student representatives are your connection to the faculty and administration of the
