@@ -11,6 +11,9 @@ permalink: /about/
 
 ### ACM
 
+**Website:** [acm-msu.github.io](https://acm-msu.github.io/) <br />
+**Contact:** [acm@cse.msu.edu](mailto:acm@cse.msu.edu)
+
 ACM@MSU organizes tech talks, presentations, and other events with industry professionals and
 instructors from MSU to foster a community of developers. ACM@MSU also aims to provide material
 supplemental to
@@ -18,6 +21,9 @@ classes with industry standard utilities like git, data visualization techniques
 workshops covering Haskell and much more.
 
 ### WIC
+
+**Website:** [cse.msu.edu/msuwic](https://www.cse.msu.edu/msuwic/) <br />
+**Contact:** [msuwic@cse.msu.edu](mailto:msuwic@cse.msu.edu)
 
 Michigan State University Women in Computing (MSU WIC) is an organization of students and
 faculty (both men and women) who work to recruit, support, and retain women in computing
@@ -28,10 +34,16 @@ our calendar and events below to keep up to date or like us on Facebook by searc
 
 ### SpartanHackers
 
+**Website:** [fb.com/hack.at.state](https://www.facebook.com/hack.at.state/) <br />
+**Contact:** [contact@spartanhackers.com](mailto:contact@spartanhackers.com)
+
 Spartan Hackers exists to foster a community of technological innovation, collaboration, and
 creation at Michigan State University.
 
 ### SpartaHack
+
+**Website:** [17.spartahack.com](https://17.spartahack.com/) <br />
+**Contact:** [hello@spartahack.com](mailto:hello@spartahack.com)
 
 SpartaHack organizes the annual hackathon at MSU, a 36-hour event with dozens of sponsors
 taking place in early Spring semester. There's food, swag, projects, cool tech and cool
