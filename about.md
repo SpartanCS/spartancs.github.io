@@ -67,7 +67,7 @@ The current roster for the student representatives follows:
 | Curriculum Committee (UN)             || Jacob Fenton             || [fentonj6@msu.edu](mailto:fentonj6@msu.edu)  |
 | Department Committee (GR)             || Steven Jorgensen         || [jorgen72@msu.edu](mailto:jorgen72@msu.edu)  |
 | Department Committee (UN)             || Alexana Stek             || [steckale@msu.edu](mailto:steckale@msu.edu)  |
-| Grad. Studies and Research Committee  || Hussein Hijazi           || [hijazihu@msu.edu](mailto:hijazihu@msu.edu)  |
+| Grad. Studies and Research Committee  || Kurt A. O'Hearn          || [ohearnku@msu.edu](mailto:ohearnku@msu.edu)  |
 
 ## Useful Pages
 
