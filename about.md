@@ -69,6 +69,22 @@ The current roster for the student representatives follows:
 | Department Committee (UN)             || Alexana Stek             || [steckale@msu.edu](mailto:steckale@msu.edu)  |
 | Grad. Studies and Research Committee  || Hussein Hijazi           || [hijazihu@msu.edu](mailto:hijazihu@msu.edu)  |
 
+## Useful Pages
+
+### [fb.com/groups/msuCS](https://www.facebook.com/groups/msuCS)
+
+The MSU CS Facebook group is a great community for all things related to CS. Questions about
+classes, schedules, events, what progamming languages to learn in your spare time, when you're
+stuck on a project. As an added bonus all the clubs post their events there, so it's a fairly
+centralized way to get your event info.
+
+#### How to Join
+
+This is a little tricky. You first have to be a member of the
+[MSU Community Page](https://www.facebook.com/groups/groupsatmichiganstate/), which requires
+that you add your @msu.edu email to your Facebook contact info (privately is fine). Otherwise
+you won't be able to see the CS page at all.
+
 ## Important Events
 
 ### ACM Elections
