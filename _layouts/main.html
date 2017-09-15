@@ -54,6 +54,7 @@
 				<button class="tablinks" onclick="openNav(event, 'ACM')">ACM</button>
 				<button class="tablinks" onclick="openNav(event, 'WIC')">WIC</button>
 				<button class="tablinks" onclick="openNav(event, 'SpartanHackers')">SpartanHackers</button>
+                <a class="tablinks" href="about/">More</a>
 				<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
 			</div>
 			
@@ -86,10 +87,14 @@ creation at Michigan State University.</p>
 			
 		</div>
 	</div>
-	
-    <div class="content">
-        {{ content }}
+	<div class="row">
+        <div class="col-lg-3 full-width"></div>
+        <div class="content col-lg-6 full-width">
+            {{ content }}
+        </div>
+        <div class="col-lg-3 full-width"></div>
     </div>
+    
     
 </body>
 </html>
