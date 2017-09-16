@@ -20,81 +20,85 @@
 				</div>
 				<div class="col-lg-6">
 					<img src="assets/banner.png" id="imgHeader">
+					<div class="row">
+						<div class="col-lg-1 full-width"></div>
+						<div class="content col-lg-10 full-width">
+							{{ content }}
+						</div>
+						<div class="col-lg-1 full-width"></div>
+					</div>
 				</div>
+				
 			</div>
 		</div>
 		
 		<div class="col-lg-4 about-nav">
-			<div class="tab">
-				<button class="tablinks" onclick="openNav(event, 'ClubLinks')">Club Links</button>
-				<button class="tablinks" onclick="openNav(event, 'About')">About</button>
-			</div>
-			<div id="ClubLinks" class="tabcontent">
-				<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
-				<div class="row">
-					<div class="col-md-3 full-width"></div>
-					
-					<div class="col-md-6 full-width text-center">
-						<a href="http://acm-msu.github.io"><img src="assets/300ACM.png" class="img-hun"/></a>
+			<div class="row">
+				<div class="col-lg-10 full-width">
+					<div class="tab">
+						<button class="tablinks" onclick="openNav(event, 'ClubLinks')">Club Links</button>
+						<button class="tablinks" onclick="openNav(event, 'About')">About</button>
 					</div>
-					
-					<div class="col-md-3 full-width"></div>
-				</div>
-				<div class="row">
-					<div class="col-md-6 full-width text-center">
-						<img src="assets/300SH2.png" class="img-hun"/>
+					<div id="ClubLinks" class="tabcontent">
+						<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
+						<div class="row">
+							<div class="col-md-3 full-width"></div>
+							
+							<div class="col-md-6 full-width text-center">
+								<a href="http://acm-msu.github.io"><img src="assets/300ACM.png" class="img-hun"/></a>
+							</div>
+							
+							<div class="col-md-3 full-width"></div>
+						</div>
+						<div class="row">
+							<div class="col-md-6 full-width text-center">
+								<img src="assets/300SH2.png" class="img-hun"/>
+							</div>
+							<div class="col-md-6 full-width text-center">
+								<img src="assets/300WIC.jpg" class="img-hun"/>
+							</div>
+						</div>
 					</div>
-					<div class="col-md-6 full-width text-center">
-						<img src="assets/300WIC.jpg" class="img-hun"/>
-					</div>
-				</div>
-			</div>
 
-			<div id="About" class="tabcontent tab">
-				<button class="tablinks" onclick="openNav(event, 'ACM')">ACM</button>
-				<button class="tablinks" onclick="openNav(event, 'WIC')">WIC</button>
-				<button class="tablinks" onclick="openNav(event, 'SpartanHackers')">SpartanHackers</button>
-                <a class="tablinks" href="about/">More</a>
-				<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
+					<div id="About" class="tabcontent tab">
+						<button class="tablinks" onclick="openNav(event, 'ACM')">ACM</button>
+						<button class="tablinks" onclick="openNav(event, 'WIC')">WIC</button>
+						<button class="tablinks" onclick="openNav(event, 'SpartanHackers')">SpartanHackers</button>
+						<a href="about/"><button  class="tablinks">More</button></a>
+						<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
+					</div>
+					
+					<div id="ACM" class="tabcontent">
+						<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
+						<h3>ACM</h3>
+						<p>ACM@MSU organizes tech talks, presentations, and other events with industry professionals and instructors from
+		MSU to foster a community of developers. ACM@MSU also aims to provide material supplemental to
+		classes with industry standard utilities like git, data visualization techniques with D3.js,
+		workshops covering Haskell and much more.</p>
+					</div>
+					
+					<div id="WIC" class="tabcontent">
+						<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
+						<h3>WIC</h3>
+						<p>Michigan State University Women in Computing (MSU WIC) is an organization of students and
+		faculty (both men and women) who work to recruit, support, and retain women in computing
+		fields. If you are interested in computing, we would love to see you at our next meeting! We
+		host many events during the semester including tech talks from visiting companies, Lean In
+		Circles, Girl Scout workshops, web development workshops, social events, and more. Check out
+		our calendar and events below to keep up to date or like us on Facebook by searching MSU WIC.</p>
+					</div>
+					
+					<div id="SpartanHackers" class="tabcontent">
+						<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
+						<h3>Spartan Hackers</h3>
+						<p>Spartan Hackers exists to foster a community of technological innovation, collaboration, and
+		creation at Michigan State University.</p>
+					</div>
+				</div>
+				<div class="col-lg-2 full-width"></div>
 			</div>
-			
-			<div id="ACM" class="tabcontent">
-				<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
-				<h3>ACM</h3>
-				<p>ACM@MSU organizes tech talks, presentations, and other events with industry professionals and instructors from
-MSU to foster a community of developers. ACM@MSU also aims to provide material supplemental to
-classes with industry standard utilities like git, data visualization techniques with D3.js,
-workshops covering Haskell and much more.</p>
-			</div>
-			
-			<div id="WIC" class="tabcontent">
-				<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
-				<h3>WIC</h3>
-				<p>Michigan State University Women in Computing (MSU WIC) is an organization of students and
-faculty (both men and women) who work to recruit, support, and retain women in computing
-fields. If you are interested in computing, we would love to see you at our next meeting! We
-host many events during the semester including tech talks from visiting companies, Lean In
-Circles, Girl Scout workshops, web development workshops, social events, and more. Check out
-our calendar and events below to keep up to date or like us on Facebook by searching MSU WIC.</p>
-			</div>
-			
-			<div id="SpartanHackers" class="tabcontent">
-				<p class="text-right pointer-cursor" onclick="this.parentElement.style.display='none'">&#x274C;</p>
-				<h3>Spartan Hackers</h3>
-				<p>Spartan Hackers exists to foster a community of technological innovation, collaboration, and
-creation at Michigan State University.</p>
-			</div>
-			
 		</div>
 	</div>
-	<div class="row">
-        <div class="col-lg-3 full-width"></div>
-        <div class="content col-lg-6 full-width">
-            {{ content }}
-        </div>
-        <div class="col-lg-3 full-width"></div>
-    </div>
-    
     
 </body>
 </html>
