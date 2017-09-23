@@ -9,7 +9,7 @@ CSE 498 (Capstone) has plans to expand into the Bob Lab (EB 3340) and the System
 
 With CSE 232 in EB 3345 (Dog) and CSE 231 in EB 3320 (River) this will leave only EB 3203 (Bone) and EB 3353 (Simpson) as available labs.
 
-EB 3353 is typically resrved for lab hours for classes like EE 220 and for consulting hours for CSE 410 and CSE 320. CSE 335 and CSE 331 hold consulting hours in EB 3203 (Bone), along with several 400-level courses.
+EB 3353 is typically resrved for lab hours for classes like CSE 220 and for consulting hours for CSE 410 and CSE 320. CSE 335 and CSE 331 hold consulting hours in EB 3203 (Bone), along with several 400-level courses.
 
 CSE 450 and CSE 476 both currently have consulting hours in EB 3340 (Bob).
 
