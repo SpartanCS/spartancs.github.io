@@ -21,6 +21,10 @@
 	margin-top : 30px;
 }
 
+.content-space {
+    margin-bottom : 25px;
+}
+
 #topHeader {
 	position : absolute;
 	bottom : 0;
