@@ -5,6 +5,8 @@ date:   2017-09-22 12:00:00 -0400
 categories: news
 ---
 
+![lab changes diagram](/assets/capsone_expansion_diagram.png)
+
 CSE 498 (Capstone) has plans to expand into the Bob Lab (EB 3340) and the System Administrator office (EB 3322).
 
 With CSE 232 in EB 3345 (Dog) and CSE 231 in EB 3320 (River) this will leave only EB 3203 (Bone) and EB 3353 (Simpson) as available labs.
