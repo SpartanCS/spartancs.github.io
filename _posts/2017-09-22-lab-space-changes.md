@@ -17,7 +17,7 @@ CSE 232 and CSE 231 both have moved their helproom hours to the Hive in Wilson f
 
 This leaves very little space for students to work on homework with peers in a lab easily or even just to socialize (adding to our issues in forming a student community).
 
-If you would like to voice your concerns on this you can fill out the Google form linked below or you can email the Curriculum Committe representative, Jake Fenton, at [fentonj6@msu.edu](mailto:fentonj6@msu.edu) and he can represent your views in the CSE Curriculum Comittee, as well as forward them onto the rest of the student representatives.
+If you would like to voice your concerns on this you can fill out the Google form linked below or you can email the Curriculum Committe representative, Jake Fenton, at [browne93@msu.edu](mailto:browne93@msu.edu) and he can represent your views in the CSE Curriculum Comittee, as well as forward them onto the rest of the student representatives.
 
 The contact info for all current student representatives can be found [under the About page](http://clubs.cse.msu.edu/about/#student-representatives)
 
